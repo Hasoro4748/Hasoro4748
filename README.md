@@ -43,6 +43,7 @@
 [GitHub Repository](https://github.com/Hasoro4748/LotteOnProject.git)
 - LotteOn 쇼핑몰 개발
 - 사용기술
+
 | **분야**       | **기술 스택**                                              |
 |----------------|------------------------------------------------------------|
 | **Frontend**   | HTML, CSS, JavaScript                                      |
@@ -51,11 +52,12 @@
 | **Deploy**     | AWS (EC2)                                                  |
 | **Versioning** | Git                                                        |
 | **CI/CD**      | GitHub Actions                                             |
+
 - 주요기여:
-- 메인화면 비동기 처리
-- 시간에 따른 배너 관리
+- 메인화면 비동기 처리를 이용한 상품 불러오기
+- 시간에 따른 배너의 관리
 - 웹소켓과 Redis 캐싱을 이용한 실시간 변동되는 베스트 상품,
-- 상품검색 등
+- 상품검색, 상품 정렬 등
 
 
 ---
