@@ -42,6 +42,7 @@
 [GitHub Repository](https://github.com/junhyeokkk/Farmstory_TEAM1)
 - 농산물 거래를 위한 및 커뮤니티 및 플랫폼 개발  
 - 사용 기술:
+
 | **분야**       | **기술 스택**                                               |
 |----------------|------------------------------------------------------------|
 | **Frontend**   | HTML, CSS, JavaScript                                       |
