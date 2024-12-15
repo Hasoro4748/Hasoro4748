@@ -38,25 +38,42 @@
 
 ## 🚀 최근 프로젝트 
 
+
+### 📌 **LotteOn 쇼핑몰 프로젝트**  
+[GitHub Repository](https://github.com/Hasoro4748/LotteOnProject.git)
+- LotteOn 쇼핑몰 개발
+- 사용기술
+| **분야**       | **기술 스택**                                              |
+|----------------|------------------------------------------------------------|
+| **Frontend**   | HTML, CSS, JavaScript                                      |
+| **Backend**    | Spring Boot, JPA, QueryDSL, MyBatis                        |
+| **Database**   | MySQL, Redis, MongoDB                                      |
+| **Deploy**     | AWS (EC2)                                                  |
+| **Versioning** | Git                                                        |
+| **CI/CD**      | GitHub Actions                                             |
+- 주요기여:
+- 메인화면 비동기 처리
+- 시간에 따른 배너 관리
+- 웹소켓과 Redis 캐싱을 이용한 실시간 변동되는 베스트 상품,
+- 상품검색 등
+
+
+---
+
 ### 📌 **FARMSTORY 프로젝트**  
 [GitHub Repository](https://github.com/junhyeokkk/Farmstory_TEAM1)
 - 농산물 거래를 위한 및 커뮤니티 및 플랫폼 개발  
 - 사용 기술
 
-| **분야**       | **기술 스택**                                               |
+| **분야**       | **기술 스택**                                              |
 |----------------|------------------------------------------------------------|
-| **Frontend**   | HTML, CSS, JavaScript                                       |
-| **Backend**    | Spring Boot, JPA, QueryDSL, MyBatis                         |
+| **Frontend**   | HTML, CSS, JavaScript                                      |
+| **Backend**    | Spring Boot, JPA, QueryDSL, MyBatis                        |
 | **Database**   | MySQL                                                      |
 | **Deploy**     | AWS (EC2)                                                  |
 | **Versioning** | Git                                                        |
 | **CI/CD**      | GitHub Actions                                             |
 - 주요 기여: 프론트 엔드 구축과 백엔드 CRUD 및 엔티티 관계설정, 기능추가
-
----
-
-### 📌 **LotteOn 쇼핑몰 프로젝트**  
-
 
 ---
 
