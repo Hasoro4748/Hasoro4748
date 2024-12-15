@@ -7,7 +7,7 @@
 ---
 
 ## 📫 Contact Me  
-- 📧 **Email:** noily4748@gmail.com  
+📧 **Email:** noily4748@gmail.com  
 
 ---
 
