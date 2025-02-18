@@ -38,6 +38,27 @@
 
 ## 🚀 최근 프로젝트 
 
+### 📌 **LotteOn 쇼핑몰 프로젝트**  
+[GitHub Repository](https://github.com/Hasoro4748/HubFlow_FrontEnd)
+- 자바 스프링부트 활용 통합 도구 사이트 개발
+- 사용기술
+
+| **분야**       | **기술 스택**                                              |
+|----------------|------------------------------------------------------------|
+| **Frontend**   | HTML, CSS, JavaScript, React                               |
+| **Backend**    | Spring Boot, JPA, QueryDSL, MyBatis                        |
+| **Database**   | MySQL, Redis, MongoDB                                      |
+| **Deploy**     | AWS (EC2), vercel                                          |
+| **Versioning** | Git                                                        |
+| **CI/CD**      | GitHub Actions                                             |
+
+- 주요기여:
+- **팀장** : 팀원들의 의견 조율 및 팀원들에게 작업 배정과 분배
+- **실시간 채팅 기능**: 웹소켓을 적용하여 실시간 채팅을 구현함
+- **서버 배포** : vercel을 사용한 프론트서버와 AWS의 백엔드의 서버 구축 및 배포
+
+---
+
 
 ### 📌 **LotteOn 쇼핑몰 프로젝트**  
 [GitHub Repository](https://github.com/Hasoro4748/LotteOnProject.git)
