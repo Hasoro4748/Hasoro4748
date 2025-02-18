@@ -38,7 +38,7 @@
 
 ## 🚀 최근 프로젝트 
 
-### 📌 **LotteOn 쇼핑몰 프로젝트**  
+### 📌 **HubFlow 쇼핑몰 프로젝트**  
 [GitHub Repository](https://github.com/Hasoro4748/HubFlow_FrontEnd)
 - 자바 스프링부트 활용 통합 도구 사이트 개발
 - 사용기술
