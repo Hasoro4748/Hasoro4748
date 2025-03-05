@@ -46,7 +46,7 @@
 ## 🚀 최근 프로젝트 
 
 ### 📌 **눈길 영화 OTT 종합 정보 플랫폼 프로젝트**  
-[GitHub Repository](https://github.com/Hasoro4748/HubFlow_FrontEnd)
+[GitHub Repository](https://github.com/SeoHong23/Nungil_Project)
 - 실제 영화 정보를 제공하는 어플리케이션 개발
 - 사용기술
 
